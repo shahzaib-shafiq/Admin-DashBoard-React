@@ -1,0 +1,8 @@
+apex charts used
+material ui library used
+
+
+yarn
+yarn add @iconscout/react-unicons
+yarn add framer-motion
+yarn add react-scroll
